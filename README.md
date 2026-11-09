@@ -71,4 +71,3 @@ flowchart LR
 資料集也處於缺失、不完整的狀態。此處的 404 張影像是目前能找回的部分，無法確認是否曾用於最終版本的模型訓練，也不能視為當時完整的訓練資料集。
 
 相關工具與參考連結見 [THIRD_PARTY.md](THIRD_PARTY.md)。
-"# intelligent_dog_deterrent" 
